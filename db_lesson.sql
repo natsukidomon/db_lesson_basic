@@ -290,3 +290,5 @@ mysql> SELECT p.name FROM people p
 | 渡辺翔太         |
 +------------------+
 5 rows in set (0.01 sec)
+
+Q12
